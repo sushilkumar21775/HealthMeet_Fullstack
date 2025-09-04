@@ -1,6 +1,7 @@
 # 🏥 HealthMeet - Complete Healthcare Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://healthmeet-backend-x7sz.onrender.com)
+[![Frontend Live](https://img.shields.io/badge/Frontend-Live-success?style=for-the-badge)](https://healthmeet-frontend-lkwd.onrender.com)
+[![Backend Live](https://img.shields.io/badge/Backend-Live-success?style=for-the-badge)](https://healthmeet-backend-x7sz.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sushilkumar21775/HealthMeet_Fullstack)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -10,8 +11,8 @@ HealthMeet is a comprehensive healthcare platform that connects patients with do
 
 ## 🚀 Live Demo
 
+- **Frontend**: [https://healthmeet-frontend-lkwd.onrender.com](https://healthmeet-frontend-lkwd.onrender.com)
 - **Backend API**: [https://healthmeet-backend-x7sz.onrender.com](https://healthmeet-backend-x7sz.onrender.com)
-- **Frontend**: Coming Soon (Deployment in Progress)
 - **Admin Panel**: Coming Soon (Deployment in Progress)
 
 ## ✨ Features
@@ -210,9 +211,14 @@ The backend is already deployed and running on Render:
 - **URL**: [https://healthmeet-backend-x7sz.onrender.com](https://healthmeet-backend-x7sz.onrender.com)
 - **Status**: ✅ Live
 
-### Frontend & Admin (Coming Soon)
+### Frontend (Deployed on Render)
+The frontend is now deployed and running on Render:
+- **URL**: [https://healthmeet-frontend-lkwd.onrender.com](https://healthmeet-frontend-lkwd.onrender.com)
+- **Status**: ✅ Live
+
+### Admin Panel (Coming Soon)
 Currently deploying to:
-- **Vercel** for frontend hosting
+- **Vercel** for admin panel hosting
 - **Netlify** as backup option
 
 ## 🧪 Testing
@@ -256,8 +262,9 @@ We welcome contributions! Please follow these steps:
 
 ## 📋 TODO & Roadmap
 
-- [ ] 🚀 Deploy Frontend to Vercel
-- [ ] 🚀 Deploy Admin Panel to Netlify
+- [x] 🚀 Deploy Backend to Render ✅
+- [x] 🚀 Deploy Frontend to Render ✅  
+- [ ] 🚀 Deploy Admin Panel to Vercel/Netlify
 - [ ] 📱 Mobile App Development
 - [ ] 🔔 Push Notifications
 - [ ] 📊 Advanced Analytics
